@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+body{
+  font-family: "Rasa", serif;
+font-weight: 300;
+margin: 0;
+}
+
+.avatar {
+  width: 340px;
+  height: 320px;
+}
+.name {
+  color: #1a2b7a;
+  text-align: center;
+  font-family: "Barlow Condensed", sans-serif;
+font-weight: 400;
+font-size:xx-large;
+text-transform: uppercase;
+padding-top: 100px;
+
+}
+.addresse{
+  color: #1783ad;
+  text-align: center;
+  font-family: "Barlow Condensed", sans-serif;
+font-weight: 400;
+font-size:xx-large;
+text-transform: uppercase;
+
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
